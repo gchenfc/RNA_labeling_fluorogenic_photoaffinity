@@ -4,7 +4,7 @@ This repo contains companion code to the paper "Imaging and tracking RNA in live
 The script will generate red/green intensity plots, as well as analysis of areas under both curves and curve overlap/similarity.
 
 ### Data File Format
-Input data files should be tab-separated text files with 1 header row and 3 columns for [position along the line, red-intensity, and green-intensity].  For example,
+Input data files should be tab-separated text files with 1 header row and 3 columns for [position along the line, green-intensity, and red-intensity].  For example,
 ```
 distance (um)	coilin-GFP	1x MGA-U6 : MGD2
 0	29	80
